@@ -7,6 +7,6 @@ export const redProducts = () => {
   // console.log(filePath);
   const products = fs.readFileSync(filePath, "utf-8");
   // console.log(products.toString());
-  console.log(products);
+  // console.log(products);
   return JSON.parse(products);
 };
