@@ -1,10 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "John Doe",
-    "email": "john.doe@example.com"
-  },
-  {
     "id": 2,
     "name": "Jane Smith",
     "email": "jane.smith@example.com"
@@ -18,15 +13,5 @@
     "id": 1778788387627,
     "name": "Arman",
     "email": "john.dowee@example.com"
-  },
-  {
-    "id": 1778788406411,
-    "name": "Arman",
-    "email": "john.dowee@example.com"
-  },
-  {
-    "id": 1778855607917,
-    "name": "himel",
-    "email": "himel@example.com"
   }
 ]
